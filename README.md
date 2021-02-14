@@ -1,7 +1,7 @@
-### Hola, mi nombre es David Chávez
+## Hola, mi nombre es David Chávez
 
 Soy un desarrollador con 2 años de experiencia en Xamarin Forms y .NET
 
-##Habilidades:</br>
-<hr>
-![iOS](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=1010)</br>
+### Habilidades:</br>
+
+![iOS](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)</br>
